@@ -42,5 +42,5 @@ Airflow • Spark • Linux • Git • AWS
 ---
 
 ## Contact
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/  
+LinkedIn: https://www.linkedin.com/in/suhaneye/  
 Email: suhaneye@gmail.com
